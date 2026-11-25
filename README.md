@@ -11,9 +11,7 @@ computermisuseact
 $ pwd
 /dev/null
 $ cat /etc/motd
-"PREVIOUSLY KNOWN TO CAUSE A COMPUTER TO PERFORM
- FUNCTIONS WITH INTENT TO SECURE / ENABLE
- UNAUTHORISED ACCESS."
+"PREVIOUSLY KNOWN TO CAUSE A COMPUTER TO PERFORM FUNCTIONS WITH INTENT TO SECURE / ENABLE UNAUTHORISED ACCESS."
 ```
 
 <br/>
@@ -39,26 +37,26 @@ $ cat ~/.profile
 # status:   still causing computers to perform functions
 ```
 
-I live at **`/dev/null`** — where all output goes to die and all secrets go to hide.  
+I live at **`/dev/null`** - where all output goes to die and all secrets go to hide.  
 I'm the account that **used to** cause computers to perform functions with intent to secure or enable unauthorised access.  
 These days I just write code, take things apart to understand them, and push to `main` without fear.
 
-> *"If you can't open it, you don't own it."* — Bunnie Huang. So I open everything.
+> *"If you can't open it, you don't own it."* - Bunnie Huang. So I open everything.
 
 ---
 
 ### `> cat /proc/interests`
 
 ```text
-[+] reverse engineering         — because binaries don't lie
-[+] network archaeology         — packets tell stories
-[+] low-level tinkering         — closer to the metal, closer to the truth
-[+] breaking things (ethically) — in sandboxes, on purpose, with notes
-[+] building small, sharp tools — one job, done well
-[+] reading other people's code — the best teacher is someone else's mess
+[+] reverse engineering         - because binaries don't lie
+[+] network archaeology         - packets tell stories
+[+] low-level tinkering         - closer to the metal, closer to the truth
+[+] breaking things (ethically) - in sandboxes, on purpose, with notes
+[+] building small, sharp tools - one job, done well
+[+] reading other people's code - the best teacher is someone else's mess
 ```
 
-No specific stack, no pinned projects — just a healthy curiosity and a terminal that never sleeps.
+No specific stack, no pinned projects - just a healthy curiosity and a terminal that never sleeps.
 
 ---
 
@@ -85,10 +83,10 @@ No specific stack, no pinned projects — just a healthy curiosity and a termina
 
 ```
 Proto  Local Address          Foreign Address        State
-tcp    0.0.0.0:22             0.0.0.0:*              LISTEN     # ssh — always open
-tcp    0.0.0.0:80             0.0.0.0:*              LISTEN     # http — serving static
-tcp    0.0.0.0:443            0.0.0.0:*              LISTEN     # https — locked down
-udp    0.0.0.0:1337           0.0.0.0:*              LISTEN     # elite — obviously
+tcp    0.0.0.0:22             0.0.0.0:*              LISTEN     # ssh - always open
+tcp    0.0.0.0:80             0.0.0.0:*              LISTEN     # http - serving static
+tcp    0.0.0.0:443            0.0.0.0:*              LISTEN     # https - locked down
+udp    0.0.0.0:1337           0.0.0.0:*              LISTEN     # elite - obviously
 ```
 
 ---
@@ -109,6 +107,6 @@ udp    0.0.0.0:1337           0.0.0.0:*              LISTEN     # elite — obvi
 [ process exited with code 0 ]
 ```
 
-<sub>© 2026 computermisuseact · hosted at /dev/null · no computers were harmed (much)</sub>
+<sub>© 2026 computermisuseact · hosted at /dev/null - no computers were harmed (much)</sub>
 
 </div>
