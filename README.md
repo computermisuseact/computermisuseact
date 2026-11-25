@@ -60,25 +60,6 @@ No specific stack, no pinned projects - just a healthy curiosity and a terminal 
 
 ---
 
-### `> git log --oneline --graph`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=computermisuseact&show_icons=true&hide_border=true&bg_color=11101d&title_color=dadada&icon_color=9c959d&text_color=c9c9d1&border_color=2b363d" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=computermisuseact&layout=compact&hide_border=true&bg_color=11101d&title_color=dadada&text_color=c9c9d1&border_color=2b363d" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=computermisuseact&hide_border=true&background=11101d&ring=dadada&fire=9c959d&currStreakLabel=dadada&sideLabels=c9c9d1&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=computermisuseact&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
----
-
 ### `> cat /proc/net/connections`
 
 ```
